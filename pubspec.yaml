@@ -1,9 +1,7 @@
-name: social_media
+name: card_design
 description: A new Flutter project.
 
-
 publish_to: 'none'
-
 
 version: 1.0.0+1
 
@@ -13,16 +11,18 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.0
+  device_preview: ^0.4.8
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-
 flutter:
 
- 
+
   uses-material-design: true
 
- 
+  
+  assets:
+    - assets/

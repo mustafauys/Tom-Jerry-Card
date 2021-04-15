@@ -1,2 +1,3 @@
-# Social Media Application in Flutter
+# Card Design in Flutter
 
+Personal card design made with Flutter.
