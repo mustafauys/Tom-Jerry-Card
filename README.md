@@ -3,4 +3,4 @@
 Personal card design made with Flutter.
 
  ## Screen
-![OneScreen](https://user-images.githubusercontent.com/51384613/115079866-7ec10380-9f0a-11eb-8fdc-99a98a320c91.jpg)
+![OneScreen](https://user-images.githubusercontent.com/51384613/115222096-07aa8b80-a113-11eb-9710-72f9da53c81f.jpg)
