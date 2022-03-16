@@ -1,6 +1,6 @@
-# Card Design in Flutter
+# Tom & Jerry Card Study
 
-Personal card design made with Flutter.
+A simple tom and jerry card study made with Flutter.
 
  ## Screen
-![OneScreen](https://user-images.githubusercontent.com/51384613/115222096-07aa8b80-a113-11eb-9710-72f9da53c81f.jpg)
+![tom](https://user-images.githubusercontent.com/51384613/158509460-bf0ff319-c517-48e5-bec7-975e0d9789a8.jpg)
