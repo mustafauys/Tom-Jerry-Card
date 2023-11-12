@@ -1,3 +1,5 @@
+## The work done in this repo is out of date, the packages need to be updated and edited again.
+
 # Tom & Jerry Card Study
 
 A simple tom and jerry card study made with Flutter.
